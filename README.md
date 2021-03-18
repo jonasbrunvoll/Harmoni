@@ -1,6 +1,6 @@
 # Harmoni - team 7
 
-![Screenshot](harmoni_screenshot_4.png)
+![Screenshot](screenshots/harmoni_screenshot_4.png)
 
 
 "Harmoni" is a web application for creating and organizing events. You can keep track of events, and performers, crew and documents that are tied to that event. 
@@ -41,7 +41,7 @@ And that's it! If you have any questions or bugs, please feel free to contact us
 
 <h2>Screenshots</h2>
 
-![Screenshot](harmoni_screenshot_1.png)
-![Screenshot](harmoni_screenshot_2.png)
-![Screenshot](harmoni_screenshot_3.png)
+![Screenshot](screenshots/harmoni_screenshot_1.png)
+![Screenshot](screenshots/harmoni_screenshot_2.png)
+![Screenshot](screenshots/harmoni_screenshot_3.png)
 
