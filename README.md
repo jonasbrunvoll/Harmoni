@@ -37,3 +37,10 @@ npm start
 Your development server will now start on [localhost:3000](http://localhost:3000 "Your local machine").
 
 And that's it! If you have any questions or bugs, please feel free to contact us.# Harmoni
+
+
+<h2>Screenshot</h2>
+
+![Screenshot](harmoni_screenshot_1.png)
+![Screenshot](harmoni_screenshot_2.png)
+
