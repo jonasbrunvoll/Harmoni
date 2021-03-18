@@ -1,6 +1,6 @@
 # Harmoni - team 7
 
-![logo picture Harmoni](https://gitlab.stud.idi.ntnu.no/williaj/harmoni-team-7/raw/master/application/client/src/components/menu/Logo_large.png)
+![Screenshot](harmoni_screenshot_4)
 
 
 "Harmoni" is a web application for creating and organizing events. You can keep track of events, and performers, crew and documents that are tied to that event. 
